@@ -4,6 +4,21 @@ TypeScript and React developer. In my spare time I build small useful apps for m
 
 **Stack:** TypeScript · React · Next.js · Vite · Node.js · Tailwind + shadcn/ui · TanStack Query · Zustand · Vitest · Playwright · Swift
 
+#### 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| **Senior Frontend Developer** | Social Discovery Group | Aug 2025 – present |
+| **Frontend Developer** | Find-Bride.com — online dating platform | Oct 2022 – Aug 2025 |
+| **Education Mentor** (part-time) | Hexlet | Nov 2024 – Mar 2025 |
+| **Frontend Developer** | Mafin — insurance aggregator | Jul 2019 – Oct 2022 |
+
+- **Find-Bride.com:** moved chat, video streaming, gift shop, profiles, search and the admin panel from legacy PHP to React; introduced Feature-Sliced Design; led the move to Next.js (App Router, SSR) and to TanStack Query; rebuilt sign-in and registration (email/password, OAuth2); integrated payment gateways; acted as temporary team lead.
+- **Mafin:** built the user dashboard from scratch in React + TypeScript (phone sign-in with SMS); moved landing pages from Tilda to Next.js + Strapi; improved Lighthouse scores; set up UI tests with React Testing Library.
+- **Hexlet:** mentored frontend students, reviewed projects, ran webinars and live-coding sessions.
+
+Work code lives in private company repositories, so it doesn't show up here. More on [LinkedIn](https://www.linkedin.com/in/dev-aleksandr-abramov/).
+
 #### 🛠 Projects
 
 | Project | What it is |
@@ -21,6 +36,23 @@ Found a bug or have an idea? Open an issue in the repo 🙌
 ### Привет, я Александр 👋
 
 Разработчик на TypeScript и React. В свободное время делаю небольшие полезные приложения — для себя, семьи и друзей — вместе с AI-агентами (Claude Code).
+
+**Опыт работы**
+
+| Роль | Компания | Период |
+|---|---|---|
+| **Senior Frontend Developer** | Social Discovery Group | авг. 2025 — сейчас |
+| **Frontend Developer** | Find-Bride.com — сервис онлайн-знакомств | окт. 2022 — авг. 2025 |
+| **Education Mentor** (частичная занятость) | Хекслет | нояб. 2024 — март 2025 |
+| **Frontend Developer** | Mafin — агрегатор страховых продуктов | июль 2019 — окт. 2022 |
+
+- **Find-Bride.com:** перевёл чат, видеотрансляции, магазин подарков, профили, поиск и админку с legacy PHP на React; внедрил Feature-Sliced Design; запустил переход на Next.js (App Router, SSR) и TanStack Query; переделал вход и регистрацию (email/пароль, OAuth2); подключал платёжные шлюзы; временно руководил командой.
+- **Mafin:** с нуля сделал личный кабинет на React + TypeScript (вход по телефону с SMS); перенёс лендинги с Tilda на Next.js + Strapi; поднял оценки Lighthouse; настроил UI-тесты на React Testing Library.
+- **Хекслет:** наставник студентов-фронтендеров: ревью проектов, вебинары и лайвкодинг.
+
+Рабочий код лежит в закрытых репозиториях компаний, поэтому здесь его не видно. Подробнее — в [LinkedIn](https://www.linkedin.com/in/dev-aleksandr-abramov/).
+
+**Проекты**
 
 | Проект | Что это |
 |---|---|
